@@ -9,6 +9,7 @@ Based in Barcelona, open to new roles, remote friendly.
 ## Selected work
 
 - [personal-site](https://github.com/HappyPercent/personal-site): interactive CV (Next.js, TypeScript)
+- [value-investor-dashboard](https://github.com/HappyPercent/value-investor-dashboard): Graham value-investing screener and portfolio analyzer with Claude commentary (Next.js, Prisma)
 - [livebox-6s-zte-exporter](https://github.com/HappyPercent/livebox-6s-zte-exporter): Prometheus exporter for the Livebox 6s router (Python)
 - [github-code-viewer](https://github.com/HappyPercent/github-code-viewer): GitHub code browser with typed GraphQL (React, Apollo)
 - [booking-app](https://github.com/HappyPercent/booking-app): appointment booking frontend (React, MUI, FullCalendar)
